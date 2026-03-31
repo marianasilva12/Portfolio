@@ -16,4 +16,4 @@ Portfólio profissional desenvolvido para apresentar meus projetos e habilidades
 
 ## 📫 Contato
 - Email: marianasilva20a@gmail.com
-- LinkedIn: linkedin.com/in/mariana-silva-5241341a6
+- LinkedIn: linkedin.com/in/mariana-silva
