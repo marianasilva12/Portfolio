@@ -1,0 +1,63 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #020617;
+  color: #e2e8f0;
+}
+
+header {
+  text-align: center;
+  padding: 80px 20px;
+  background: linear-gradient(135deg, #0f172a, #1e293b);
+}
+
+h1 {
+  font-size: 42px;
+}
+
+.btn {
+  display: inline-block;
+  margin-top: 20px;
+  padding: 10px 20px;
+  background: #38bdf8;
+  color: black;
+  text-decoration: none;
+  border-radius: 8px;
+}
+
+section {
+  max-width: 900px;
+  margin: auto;
+  padding: 40px 20px;
+}
+
+h2 {
+  color: #38bdf8;
+  border-bottom: 1px solid #38bdf8;
+}
+
+.skills span {
+  display: inline-block;
+  background: #1e293b;
+  padding: 10px;
+  margin: 5px;
+  border-radius: 8px;
+}
+
+.card {
+  background: #0f172a;
+  padding: 20px;
+  margin-top: 20px;
+  border-radius: 12px;
+  transition: 0.3s;
+}
+
+.card:hover {
+  transform: scale(1.05);
+}
+
+footer {
+  text-align: center;
+  padding: 20px;
+  background: #0f172a;
+}
